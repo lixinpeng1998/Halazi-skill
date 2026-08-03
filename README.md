@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/halazi-hero-v1.png" alt="流口水 Skill 头像" width="220">
+</p>
+
 # 流口水 Skill 🤤
 
 **English name: Halazi Skill**
