@@ -2,7 +2,7 @@
   <img src="assets/halazi-hero-v1.png" alt="流口水小猫头像" width="220">
 </p>
 
-<h1 align="center">流口水 Skill 🤤</h1>
+<h1 align="center">流口水 Skill：集中傻子办大事 🤤</h1>
 
 <p align="center">
   <strong>把烧脑的 AI 项目，变成流着哈喇子也能做的选择题。</strong><br>
